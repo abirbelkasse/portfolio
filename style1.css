@@ -112,7 +112,7 @@ transition: 0.2s linear;
     font-size: 1.8rem;
     font-weight: 500;
 }
-.social-icons a{
+.social.icons a{
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -139,6 +139,7 @@ transition: 0.2s linear;
     transition: 0.3s ease;
 cursor: pointer;
 }
+
 .typing-text{
     font-size: 34px;
     font-weight: 600;
